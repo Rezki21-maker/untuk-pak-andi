@@ -1,0 +1,6 @@
+{
+  "name": "GuruKita",
+  "description": "Aplikasi asisten guru offline-first untuk pencatatan absensi cepat 1-tap, penilaian tugas, dan rekap ekspor laporan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
